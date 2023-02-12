@@ -1,0 +1,4 @@
+w-container:before,
+w-container:after{
+	display:none;
+}
