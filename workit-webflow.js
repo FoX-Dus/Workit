@@ -1,4 +1,4 @@
 $(document).ready(
 	function() {
-		$(".text-field-3").mask("(000) 000-00-00");
+		$(".text-field-3").mask("+38 (000) 000-00-00");
 	})
